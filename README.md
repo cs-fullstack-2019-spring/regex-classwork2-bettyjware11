@@ -16,6 +16,7 @@ Graduate Colleges	The Graduate School and University Center	http://gc.cuny.edu	3
 Senior Colleges	Hunter College	http://hunter.cuny.edu	695 Park Avenue	New York	NY	10065-5024
 
 ```
+Answer:  \d{5}|-\d{4}|\d{5}
 
 ### 2. BONUS Binary Challenge
 In honor of the binary number work you've been doing with Kenn, see if you can knock this one out:
